@@ -1,1 +1,1 @@
-print("Hello Git & VSC")
+print("Hello Git & VSC!")
